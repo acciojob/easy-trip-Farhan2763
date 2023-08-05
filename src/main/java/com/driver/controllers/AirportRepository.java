@@ -4,7 +4,6 @@ import com.driver.model.Airport;
 import com.driver.model.City;
 import com.driver.model.Flight;
 import com.driver.model.Passenger;
-import io.swagger.models.auth.In;
 
 import java.util.*;
 
